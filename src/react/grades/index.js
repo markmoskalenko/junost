@@ -1,5 +1,5 @@
-import { frontend, nodejs, python, java, php, ios, android } from './specs';
+import { frontend, nodejs, python, java, php } from './specs';
 
-const grades = [frontend, nodejs, python, java, php, ios, android];
+const grades = [frontend, php, nodejs, python, java];
 
 export default grades;

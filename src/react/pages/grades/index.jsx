@@ -7,7 +7,7 @@ import SkillPopup from '~/components/skillPopup';
 import SoonPopup from '~/components/soonPopup';
 import OnboardingPopup from '~/components/onboardingPopup';
 
-const githubUrl = 'https://github.com/anmedio/grades';
+const githubUrl = 'https://github.com/markmoskalenko/grades';
 
 class Grades extends Component {
   static showOnboarding() {

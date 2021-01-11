@@ -1,7 +1,7 @@
 {
   "name": "junost",
   "version": "1.2.0",
-  "description": "Junost project - objective grades for the development of digital professionals, proposed and developed by the professional community. Made by ANMEDIO",
+  "description": "Junost project - objective grades for the development of digital professionals, proposed and developed by the professional community. Made by markmoskalenko",
   "main": "gulpfile.js",
   "scripts": {
     "gulp:start": "cross-env NODE_ENV=development gulp",
@@ -17,13 +17,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@gitlab.com/anmedio/grades.git"
+    "url": "git+ssh://git@gitlab.com/markmoskalenko/grades.git"
   },
   "keywords": [
     "grades",
     "digital",
     "junost",
-    "anmedio"
+    "markmoskalenko"
   ],
   "author": "Artyom Ivanov",
   "contributors": [
@@ -35,9 +35,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/anmedio/grades/issues"
+    "url": "https://github.com/markmoskalenko/grades/issues"
   },
-  "homepage": "https://gitlab.com/anmedio/grades#readme",
+  "homepage": "https://gitlab.com/markmoskalenko/grades#readme",
   "devDependencies": {
     "@babel/core": "^7.4.0",
     "@babel/plugin-proposal-class-properties": "^7.4.0",

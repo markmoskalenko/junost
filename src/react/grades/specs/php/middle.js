@@ -1,3 +1,37 @@
-import {} from '../../tags';
+import {
+  cicd,
+  databasesAdvanced,
+  dataStructuresRealisation,
+  designPatterns,
+  developmentPatterns,
+  docker,
+  elasticSearch,
+  firebase,
+  functionalProgramming,
+  jwt,
+  linuxAdvanced,
+  memcached,
+  networkAdvanced,
+  oAuth,
+  redis,
+  tddbdd,
+} from '../../tags';
 
-export default [];
+export default [
+  docker,
+  cicd,
+  memcached,
+  elasticSearch,
+  designPatterns,
+  developmentPatterns,
+  functionalProgramming,
+  tddbdd,
+  linuxAdvanced,
+  networkAdvanced,
+  databasesAdvanced,
+  dataStructuresRealisation,
+  firebase,
+  jwt,
+  oAuth,
+  redis,
+];

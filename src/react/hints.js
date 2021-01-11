@@ -24,7 +24,7 @@ const hintsOptions = {
     {
       element: '.header__logo',
       intro:
-        'Предложить свои материалы или скиллы для направлений можно на Github или написав на opensource@anmedio.ru',
+        'Предложить свои материалы или скиллы для направлений можно на Github или написав на office@it-yes.com',
       position: 'left',
     },
   ],

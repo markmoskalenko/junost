@@ -135,3 +135,4 @@ export { default as webpack } from './webpack';
 export { default as webRTC } from './webRTC';
 export { default as webSockets } from './webSockets';
 export { default as weinre } from './weinre';
+export { default as mysql } from './mysql';
